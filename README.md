@@ -7,13 +7,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **spring security and microservices using GoLang**
+- 🌱 I’m currently learning **spring security and ReactJs**
 
-- 👯 I’m looking to collaborate on **spring boot microservices, REST APIs using Golang.** 
+- 👯 I’m looking to collaborate on **REST APIs using spring boot, Golang.** 
 
 <!-- - 📝 I regularly write articles on [hashnode.com/@rohithgadu](hashnode.com/@rohithgadu) -->
 
-- 💬 Ask me about **spring boot, GoLang**
+- 💬 Ask me about **Java spring boot, GoLang**
 
 - 📫 How to reach me **gadurohith@gmail.com**
 
