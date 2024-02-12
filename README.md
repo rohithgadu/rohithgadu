@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **Java, spring boot**
 
-- 📫 How to reach me **gadurohith@gmail.com**
 
 ## 🌐 Socials:
 
